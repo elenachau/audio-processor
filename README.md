@@ -1,30 +1,11 @@
-# s22-semester-project-riley-and-chau
-s22-semester-project-riley-and-chau created by GitHub Classroom
+**Summary:**
 
-CS 202 Semester Project - Group 5 
+The Audio Processor project involves creating an application with a terminal-based user interface to manipulate audio data from WAV files. Key aspects include:
 
-By: Trent Riley, Elena Chau, Evan Daley
+- Handling uncompressed WAV files.
+- Utilizing the Model-View-Controller (MVC) architecture.
+- Implementing audio effects like normalization and echo.
+- Supporting 8 and 16-bit mono and stereo files.
+- Emphasizing error handling and customizable program flow.
 
-    Team Member Contributions:
-    
-        Trent Riley: Processors, File I/O, Controller, Console, Program Management, Interfaces
-        
-        Elena Chau: Wave file I/O, UML Diagram, Debugging, Time Management, Meeting Space
-        
-        Evan Daley: Additional Processors, Debugging, Report Writing
-        
-    **UML Diagram is Located in Repository**
-        
-    Problems Encountered:
-    
-        (We were able to fix all of these)
-    
-        - Reading sound data and passing it to the model 
-        
-        - Writing low pass filter 
-        
-        - Utlizing dynamic memory
-        
-        - Reading and writing different wave file types, specifically stereo
-        
-
+For more details, refer to [Audio Processor Outline](https://github.com/elenachau/audio-processor/blob/main/audio-processor-project-outline.pdf).
